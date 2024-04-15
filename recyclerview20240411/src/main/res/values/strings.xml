@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecyclerView20240411</string>
+
+    <string-array name="animals">
+        <item>蜘蛛</item>
+        <item>猴子</item>
+        <item>刺猬</item>
+        <item>鱼</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>蜘蛛是陆地生态系统中最丰富的捕食性天敌，在维持农林生态系统稳定中的作用不容忽视。</item>
+        <item>猴子是三种类人猿灵长目动物的成员，灵长目是动物界的种群，猴子一般大脑发达，眼眶朝向前方，眶间距窄，手和脚的趾（指）分开，大拇指灵活，多数能与其他原猴亚目和猿猴亚目。</item>
+        <item>刺猬在苏南民间又被叫做"偷瓜獾"，体肥矮、爪锐利、眼小、毛短，浑身有短而密的刺，刺猬在夜间活动，以昆虫和蠕虫为主要食物，一晚上能吃掉200克的虫子，遇敌害时能将身体卷曲成球状，将刺朝外，保护自己，刚出生时刺软眼盲。</item>
+        <item>鱼类是以鳃呼吸、通过尾部和躯干部的摆动以及鳍的协调作用游泳和凭上下颌摄食的变温水生脊椎动物，属于脊索动物门中的脊椎动物亚门。</item>
+    </string-array>
+</resources>

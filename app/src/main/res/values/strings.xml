@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App20240328</string>
+
+    <string name="warning">警告：下标越界了</string>
+
+    <string-array name="fruits">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>橘子</item>
+        <item>西瓜</item>
+    </string-array>
+</resources>

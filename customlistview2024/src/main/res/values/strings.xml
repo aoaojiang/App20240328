@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CustomListView2024</string>
+
+    <string-array name="titles">
+        <item>Tom</item>
+        <item>Jerry</item>
+        <item>Mickey</item>
+        <item>Donald</item>
+        <item>张三</item>
+        <item>李四</item>
+        <item>王五</item>
+        <item>赵六</item>
+        <item>Jack</item>
+        <item>John</item>
+    </string-array>
+
+    <string-array name="messages">
+        <item>Message 1</item>
+        <item>Message 2</item>
+        <item>Message 3</item>
+        <item>Message 4</item>
+        <item>Message 5</item>
+        <item>Message 6</item>
+        <item>Message 7</item>
+        <item>Message 8</item>
+        <item>Message 9</item>
+        <item>Message 10</item>
+    </string-array>
+
+    <string-array name="times">
+        <item>18:01</item>
+        <item>18:02</item>
+        <item>18:03</item>
+        <item>18:04</item>
+        <item>18:05</item>
+        <item>18:06</item>
+        <item>18:07</item>
+        <item>18:08</item>
+        <item>18:09</item>
+        <item>18:10</item>
+    </string-array>
+</resources>
